@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#0068B3"  # Inter Blue, the iconic color of the Nerazzurri
+backgroundColor="#ffffff"  # White background for clean contrast
+secondaryBackgroundColor="#f0f6ff"  # Very light blue tint for subtle depth
+textColor="#1a1a1a"  # Dark charcoal for excellent readability
+
